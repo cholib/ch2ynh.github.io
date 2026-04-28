@@ -27,3 +27,4 @@ buttons:
   vcf: http://h2vx.com/vcf/<!--url-->
   json: /assets/resume.json
 ---
+.
